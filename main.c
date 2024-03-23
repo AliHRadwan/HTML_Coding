@@ -3,9 +3,9 @@
 #include <conio.h>
 
 
-int main ()
+int main (void)
 {
     printf("Hello World!");
 
-    return ;
+    return 0;
 }
